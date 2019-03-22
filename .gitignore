@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 text.py
+=======
+test.py
+>>>>>>> ae86116061f3fcb7004bef259c31b1a4a13b4449
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
